@@ -1,0 +1,15 @@
+# Blender files and backups
+*.blend
+*.blend1
+*.blend@
+
+# Render output
+Temp_Render/
+frame_*.png
+*.mp4
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
